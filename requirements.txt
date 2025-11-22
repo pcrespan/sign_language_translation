@@ -1,0 +1,13 @@
+accelerate
+matplotlib
+mediapipe
+numpy
+opencv-contrib-python
+opencv-python
+opencv-python-headless
+pandas
+pillow
+torch
+torchvision
+tqdm
+transformers
